@@ -61,26 +61,6 @@ This project aims to predict whether a person is diabetic based on medical diagn
 
 ---
 
-## **How to Run the Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
-   ```bash
-   python diabetes_prediction.py
-   ```
-4. Optional: Load the model for predictions:
-   ```python
-   import joblib
-   model = joblib.load('diabetes_model.pkl')
-   ```
-
----
 
 ## **Future Enhancements**
 1. Use hyperparameter tuning to optimize the Random Forest Classifier.
@@ -90,5 +70,3 @@ This project aims to predict whether a person is diabetic based on medical diagn
 ---
 
 
-
-Let me know if you'd like additional sections or further customization! 😊
